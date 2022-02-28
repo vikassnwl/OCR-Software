@@ -1,0 +1,7 @@
+/env
+/media
+.idea
+__pycache__
+/ocr/resize
+/ocr/outputs
+/ocr/ROI

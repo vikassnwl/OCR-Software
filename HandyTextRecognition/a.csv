@@ -1,0 +1,5 @@
+ImageName,y,y+h,x,x+w,TextColor,dot_coordinate_x,dot_coordinate_y
+ROI_0.jpg,1870,1977,3450,3863,Blue,3476.0,1936.5
+ROI_1.jpg,877,956,745,853,Blue,0.0,0.0
+ROI_2.jpg,691,768,945,1054,Blue,0.0,0.0
+ROI_3.jpg,912,989,629,736,Blue,0.0,0.0
